@@ -14,7 +14,7 @@ import ProfilePage from './components/ProfilePage';
 import Leaderboard from './components/Leaderboard';
 import FabButton from './components/FabButton';
 import '@fontsource/roboto';
-import './app.css';
+import './index.css';
 
 const firebaseConfig = {
   apiKey: "AIzaSyAHbw1COmnjMdAwv3SpA7G2ff-TONM0QCA",
